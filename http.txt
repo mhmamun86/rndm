@@ -1,47 +1,5 @@
-[
-  {
-    "ip": "123.45.67.89",
-    "port": "8080",
-    "network": "HTTP",
-    "location": "United States",
-    "country": "US",
-    "city": "New York",
-    "server": "proxy1.example.com"
-  },
-  {
-    "ip": "45.67.89.12",
-    "port": "3128",
-    "network": "HTTP",
-    "location": "United Kingdom",
-    "country": "UK",
-    "city": "London",
-    "server": "proxy2.example.com"
-  },
-  {
-    "ip": "98.76.54.32",
-    "port": "80",
-    "network": "HTTP",
-    "location": "Canada",
-    "country": "CA",
-    "city": "Toronto",
-    "server": "proxy3.example.com"
-  },
-  {
-    "ip": "78.90.12.34",
-    "port": "8888",
-    "network": "HTTP",
-    "location": "Germany",
-    "country": "DE",
-    "city": "Berlin",
-    "server": "proxy4.example.com"
-  },
-  {
-    "ip": "202.51.74.53",
-    "port": "8080",
-    "network": "HTTP",
-    "location": "Nepal",
-    "country": "NP",
-    "city": "Kathmandu",
-    "server": "nepal_proxy1.example.com"
-  }
-]
+123.45.67.89:8080:HTTP:United States:US:New York:proxy1.example.com
+45.67.89.12:3128:HTTP:United Kingdom:UK:London:proxy2.example.com
+98.76.54.32:80:HTTP:Canada:CA:Toronto:proxy3.example.com
+78.90.12.34:8888:HTTP:Germany:DE:Berlin:proxy4.example.com
+202.51.74.53:8080:HTTP:Nepal:NP:Kathmandu:nepal_proxy1.example.com
