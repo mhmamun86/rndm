@@ -1,0 +1,38 @@
+[
+  {
+    "ip": "123.45.67.89",
+    "port": "8080",
+    "network": "HTTP",
+    "location": "United States",
+    "country": "US",
+    "city": "New York",
+    "server": "proxy1.example.com"
+  },
+  {
+    "ip": "45.67.89.12",
+    "port": "3128",
+    "network": "HTTP",
+    "location": "United Kingdom",
+    "country": "UK",
+    "city": "London",
+    "server": "proxy2.example.com"
+  },
+  {
+    "ip": "98.76.54.32",
+    "port": "80",
+    "network": "HTTP",
+    "location": "Canada",
+    "country": "CA",
+    "city": "Toronto",
+    "server": "proxy3.example.com"
+  },
+  {
+    "ip": "78.90.12.34",
+    "port": "8888",
+    "network": "HTTP",
+    "location": "Germany",
+    "country": "DE",
+    "city": "Berlin",
+    "server": "proxy4.example.com"
+  }
+]
