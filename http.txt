@@ -34,5 +34,14 @@
     "country": "DE",
     "city": "Berlin",
     "server": "proxy4.example.com"
+  },
+  {
+    "ip": "202.51.74.53",
+    "port": "8080",
+    "network": "HTTP",
+    "location": "Nepal",
+    "country": "NP",
+    "city": "Kathmandu",
+    "server": "nepal_proxy1.example.com"
   }
 ]
